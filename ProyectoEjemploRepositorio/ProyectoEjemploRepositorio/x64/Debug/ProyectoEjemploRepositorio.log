@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\alexis-pc\OneDrive\Documentos\Programacion orientada a objetos\ejercicioPOO1\ProyectoEjemploRepositorio\ProyectoEjemploRepositorio\MyForm.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ProyectoEjemploRepositorio.vcxproj -> C:\Users\alexis-pc\OneDrive\Documentos\Programacion orientada a objetos\ejercicioPOO1\ProyectoEjemploRepositorio\x64\Debug\ProyectoEjemploRepositorio.exe
